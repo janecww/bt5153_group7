@@ -20,7 +20,7 @@ In recent years, online consumer reviews have gained increasing importance and h
 - Independent Data Set
   - `IndependentReviewData.csv` - The independent review dataset we self-generated with 50 rows only
   - `IndependentReviewData_150.csv` - The independent review dataset we self-generated with 150 rows
-  - 'AmazonKindle_realReviews.csv': - The dataset we used to generate our own fake reviews for model testing (Link: https://drive.google.com/file/d/10aQjD225T-_uaKS2vRSJ4zxxuHWyQGO8/view?usp=sharing)
+  - 'AmazonKindle_realReviews.zip': - The dataset we used to generate our own fake reviews for model testing (Link: https://drive.google.com/file/d/10aQjD225T-_uaKS2vRSJ4zxxuHWyQGO8/view?usp=sharing)
 - Prediction Results
   - `Predicted_Classes_Independent_dataset_MINLOSS.csv` - The prediction results based on the independent dataset with our self-generated fake reviews 
   - `Predicted_Classes_New_MINLOSS.csv`- The prediction results based on the testing set of our kaggle fake review dataset
